@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+
+/.project
+/.settings/org.sonarlint.eclipse.core.prefs
+/.vscode
+src/vendor/submodule
