@@ -6,4 +6,3 @@ npm-debug.log
 /.project
 /.settings/org.sonarlint.eclipse.core.prefs
 /.vscode
-src/vendor/submodule
